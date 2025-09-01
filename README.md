@@ -1,0 +1,91 @@
+# [2024] 🏰 Tower Descend
+
+A **2D single-player puzzle game** developed as part of a Game Development course at **Cavite State University**.  
+Inspired by *Once Upon a Tower*, this project reimagines the concept for PC, with unique levels, puzzles, and an engaging storyline.
+
+---
+
+## 📖 Overview
+**Tower Descend** puts players in control of **Lily**, a brave adventurer trapped in a mysterious tower pursued by a relentless dragon.  
+Players must descend through four increasingly challenging levels, solving puzzles, avoiding traps, and outsmarting the dragon to survive.
+
+---
+
+## 🎮 Gameplay
+- **Controls**
+  - Arrow keys → Move Lily (up, down, left, right)
+  - Spacebar → Interact / Jump
+
+- **Objectives**
+  - Solve puzzles on each floor to unlock progression.
+  - Survive traps and hazards that increase in difficulty.
+  - Escape from the dragon while descending deeper into the tower.
+
+- **Reward System**
+  - Collect **diamonds** and **cherries** as completion rewards.
+  - Unlock achievements by solving puzzles without losing health or clearing levels flawlessly.
+
+---
+
+## 🕹️ Features
+- 2D **puzzle-solving and adventure mechanics**.
+- Four distinct levels with unique visual themes and puzzles.
+- **Dynamic gameplay** that increases in complexity with each stage.
+- Engaging **storyline and narrative-driven progression**.
+- Immersive **sound effects and music** enhancing atmosphere.
+- **Memory-based puzzles** integrated between levels.
+
+---
+
+## 🌍 Game World
+- Ancient, mysterious **tower** with crumbling stone walls and dimly lit corridors.
+- Progressive **level design**:
+  - Level 1: Simple mechanics & easy puzzles.
+  - Level 2: Darker visuals with more difficult paths.
+  - Level 3: Harder puzzles with tense atmosphere.
+  - Level 4: Final descent with the darkest theme and outside-world finale.
+
+---
+
+## 🎨 Graphics & Audio
+- **2D graphics style** designed for atmospheric depth.
+- Assets created using **Canva**.
+- **Animations** built in **Godot Engine** for smooth character movement.
+- Free background music and effects from **itch.io**.
+
+---
+
+## 🛠️ Requirements
+### Hardware
+- Standard PC/Laptop  
+- Minimum: Dual-core processor, 4GB RAM  
+- Recommended: Quad-core processor, 8GB RAM  
+
+### Software
+- **Godot Engine** (for development)  
+- Windows/macOS (for gameplay)  
+
+---
+
+## 🚀 Installation & Running
+1. Clone or download this repository.
+2. Open the project in **Godot Engine**.
+3. Run the game directly from the editor or build an executable for PC.
+4. Use the arrow keys and spacebar to play.
+
+---
+
+## 👥 Development Team
+- **Edrei Reigne I. Rivera** – Core game development, Full-Stack, puzzles 
+- **Angely Mae R. Dy** – Asset creation, development, documentation  
+
+
+---
+
+## 📜 License
+This project is for **educational purposes**.  
+If you plan to reuse assets or modify the game, please credit the original author.  
+Default license: [MIT License](LICENSE)
+
+---
+
