@@ -9,6 +9,9 @@ Inspired by *Once Upon a Tower*, this project reimagines the concept for PC, wit
 **Tower Descend** puts players in control of **Lily**, a brave adventurer trapped in a mysterious tower pursued by a relentless dragon.  
 Players must descend through four increasingly challenging levels, solving puzzles, avoiding traps, and outsmarting the dragon to survive.
 
+<img width="863" height="510" alt="image" src="https://github.com/user-attachments/assets/42e7ff72-ff57-4a35-a460-91f87f9a490f" />
+
+
 ---
 
 ## 🎮 Gameplay
@@ -45,6 +48,9 @@ Players must descend through four increasingly challenging levels, solving puzzl
   - Level 3: Harder puzzles with tense atmosphere.
   - Level 4: Final descent with the darkest theme and outside-world finale.
 
+<img width="987" height="576" alt="image" src="https://github.com/user-attachments/assets/d5b2bf80-ddae-4a1f-b8b2-7ef200d7f036" />
+
+
 ---
 
 ## 🎨 Graphics & Audio
@@ -52,6 +58,9 @@ Players must descend through four increasingly challenging levels, solving puzzl
 - Assets created using **Canva**.
 - **Animations** built in **Godot Engine** for smooth character movement.
 - Free background music and effects from **itch.io**.
+
+<img width="853" height="506" alt="image" src="https://github.com/user-attachments/assets/7e47cf4f-bb0a-414c-8cae-a65da6306d9a" />
+
 
 ---
 
@@ -73,14 +82,19 @@ Players must descend through four increasingly challenging levels, solving puzzl
 3. Run the game directly from the editor or build an executable for PC.
 4. Use the arrow keys and spacebar to play.
 
+<img width="845" height="469" alt="image" src="https://github.com/user-attachments/assets/59c9e2c4-9e46-4bde-80d1-9e8cf134734a" />
+
 ---
 
 ## 👥 Development Team
 - **Edrei Reigne I. Rivera** – Core game development, Full-Stack, puzzles 
 - **Angely Mae R. Dy** – Asset creation, development, documentation  
 
-
 ---
+## 👥 Tower Descend Initial Storyboard
+
+<img width="830" height="678" alt="image" src="https://github.com/user-attachments/assets/70154b10-0d92-4f7f-bbe8-ba6981d18944" />
+
 
 ## 📜 License
 This project is for **educational purposes**.  
