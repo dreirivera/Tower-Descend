@@ -39,6 +39,11 @@ Players must descend through four increasingly challenging levels, solving puzzl
 - **Memory-based puzzles** integrated between levels.
 
 ---
+## 👥 Tower Descend Initial Storyboard
+
+<img width="830" height="678" alt="image" src="https://github.com/user-attachments/assets/70154b10-0d92-4f7f-bbe8-ba6981d18944" />
+
+---
 
 ## 🌍 Game World
 - Ancient, mysterious **tower** with crumbling stone walls and dimly lit corridors.
@@ -91,10 +96,6 @@ Players must descend through four increasingly challenging levels, solving puzzl
 - **Angely Mae R. Dy** – Asset creation, development, documentation  
 
 ---
-## 👥 Tower Descend Initial Storyboard
-
-<img width="830" height="678" alt="image" src="https://github.com/user-attachments/assets/70154b10-0d92-4f7f-bbe8-ba6981d18944" />
-
 
 ## 📜 License
 This project is for **educational purposes**.  
